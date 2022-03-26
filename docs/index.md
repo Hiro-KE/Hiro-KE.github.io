@@ -1,5 +1,4 @@
-## Bio
-
+## Bio [Download CV here](https://www.jedfakhfekh.com/_files/ugd/918f35_dbdb9d0fb0104e7f9ab788eb6f6bcfbe.pdf)
 
 ### **Programming**
 I am a software engineer experienced in Unreal Engine development (Blueprints/C++) and Point Cloud Library while being passionate for 3D applications and tools (Video Games and visualizations).
