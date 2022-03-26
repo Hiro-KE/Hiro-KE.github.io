@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Jed Fakhfekh
+## C++ | Unreal Engine Developer
 
-You can use the [editor on GitHub](https://github.com/Hiro-KE/Hiro-KE.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Programming**
+I am a software engineer experienced in Unreal Engine development (Blueprints/C++) and Point Cloud Library while being passionate for 3D applications and tools (Video Games and visualizations).
+My experiences are mainly focused on :
+- Combat systems (Creating a full gameplay framework, replicated with a scalable optimization for MMORPG purposes)
+- Optimization (Networking, Memory, CPU usage). (Able to solve bottlenecks and write down reports about issues, solutions and better approaches for future implementations) 
+- Core Engine Programming (Editing Unreal Engine when needed in order to avoid workarounds or to improve the workflow)
+- Technical Art (Custom Shadings, Animation layering systems)
+- Third party libraries and interaction (Able to implement modules that interact with external programs or libraries such as GDI+, Arduino, Databases, etc.)
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **Art**
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hiro-KE/Hiro-KE.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I have a huge insight over every pipeline in the 3D art field.
+This includes a variety of tasks such as modeling, texturing, rigging, animating, materials workflow.
+I am, eventually, able to write and deliver well elaborated technical thoughts and tasks for each team member in these fields for multiple purposes (Games, CGI or Visualizations.. etc).
