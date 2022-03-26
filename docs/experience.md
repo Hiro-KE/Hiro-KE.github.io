@@ -17,6 +17,7 @@ custom PCL filters using the point cloud library and applying them on
 the LiDAR data.
 
 [AIRCC link](https://aircconline.com/csit/abstract/v11n6/csit110607.html)
+
 [Full paper](https://aircconline.com/csit/papers/vol11/csit110607.pdf)
 
 ### Unreal Engine MMORPG Core Programmer (2020 - 2021)
@@ -24,6 +25,7 @@ the LiDAR data.
 - Implementing new gameplay features.
 - Optimizing the replicated systems for better performance.
 - Occasional quality checking on 3D assets.
+
 [Game Website](https://www.legioneternalwar.com/)
 
 ### Architecture Visualization (2019 - 2020)
@@ -34,6 +36,7 @@ the LiDAR data.
 
 ### VR Developer (2017)
 Working with a team over creating a VR interactive game for a cultural educational purpose.
+
 [Company Website](https://www.dcx.studio/)
 
 ### Cinema 4D Freelancer (2017 - 2020)
