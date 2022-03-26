@@ -1,5 +1,4 @@
-# Jed Fakhfekh
-## C++ | Unreal Engine Developer
+##Bio
 
 
 ### **Programming**
