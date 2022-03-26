@@ -1,5 +1,5 @@
 ## Bio 
-[Download CV here](https://www.jedfakhfekh.com/_files/ugd/918f35_dbdb9d0fb0104e7f9ab788eb6f6bcfbe.pdf)
+[CV link](https://www.jedfakhfekh.com/_files/ugd/918f35_dbdb9d0fb0104e7f9ab788eb6f6bcfbe.pdf)
 
 
 ### **Programming**
