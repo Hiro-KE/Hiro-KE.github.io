@@ -16,7 +16,7 @@ order to detect power poles and power lines. This implies creating
 custom PCL filters using the point cloud library and applying them on
 the LiDAR data.
 
-[AIRCC link](https://aircconline.com/csit/abstract/v11n6/csit110607.html) - [Full paper](https://aircconline.com/csit/papers/vol11/csit110607.pdf)
+[AIRCC link](https://aircconline.com/csit/abstract/v11n6/csit110607.html) | [Full paper](https://aircconline.com/csit/papers/vol11/csit110607.pdf)
 
 ### Unreal Engine MMORPG Core Programmer (2020 - 2021)
 - Reworking the locomotion and the combat system of an MMORPG developed by Nexus Division.
